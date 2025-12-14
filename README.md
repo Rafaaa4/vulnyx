@@ -1,4 +1,4 @@
-# HTB-like Machine Walkthrough: **Lower4**
+# VulNyx Machine Walkthrough: **Lower4**
 
 ---
 
